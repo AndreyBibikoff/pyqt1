@@ -31,4 +31,3 @@ def host_range_ping(get_list=False):
 
 if __name__ == "__main__":
     host_range_ping()
-
